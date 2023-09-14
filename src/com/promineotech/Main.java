@@ -7,7 +7,7 @@ public class Main {
 		
 		// create double variables and assign values
 		double value1 = 14.99;
-		double value2 = 15.99;
+		double value2 = 10.99;
 		
 		// add the two values together and print to the console
 		System.out.println(value1 + value2);
